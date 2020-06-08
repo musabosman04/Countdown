@@ -1,0 +1,27 @@
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    text-align: center;
+}
+h1{
+    font-family: cursive;
+    font-size: 5em;
+    color: #969696;
+}
+input{
+    width: 100%;
+    padding: 10px;
+}
+button{
+    font-family: cursive;
+    margin-top: 40px;
+    font-size: 2rem;
+    cursor: pointer;
+    color: red;
+    background-color: greenyellow;
+    border: 1px solid gold;
+    border-radius: 5px;
+}
